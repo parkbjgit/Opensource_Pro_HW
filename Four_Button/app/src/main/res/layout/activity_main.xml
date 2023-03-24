@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.four_button.MainActivity">
+
+    <Button
+        android:id="@+id/go_nate"
+        android:layout_width="410dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#656161"
+        android:text="네이트 홈페이지 열기"
+        android:textColor="#070606"
+        />
+
+    <Button
+        android:id="@+id/call_911"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#4CAF50"
+        android:text="911 응급전화 걸기"
+        android:textColor="#0C0B0B" />
+
+    <Button
+        android:id="@+id/open_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#E91E63"
+        android:text="갤러리 열기"
+        android:textColor="#090707" />
+
+    <Button
+        android:id="@+id/end"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="#FFEB3B"
+        android:text="끝내기"
+        android:textColor="#100D0D" />
+</LinearLayout>
