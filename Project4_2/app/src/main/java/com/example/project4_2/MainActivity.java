@@ -15,8 +15,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView text1, text2;
-    CheckBox chkAgree;
+    TextView text1, text2;                                      //2021041022  소프트웨어
+    CheckBox chkAgree;                                          //박범준
     RadioGroup rGroup1;
     RadioButton rdoDog, rdoCat, rdoRabbit;
     Button btnOK;

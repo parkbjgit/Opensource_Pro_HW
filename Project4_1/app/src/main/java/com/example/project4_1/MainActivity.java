@@ -11,8 +11,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     EditText edit1, edit2;
-    Button btnadd,btnsub,btnmul,btndiv;
-    TextView textresult;
+    Button btnadd,btnsub,btnmul,btndiv;                         //2021041022 소프트웨어
+    TextView textresult;                                        //박범준
     String num1,num2;
     Integer result;
 

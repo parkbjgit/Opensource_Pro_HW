@@ -14,8 +14,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     TextView text1, text2;
-    Switch switch1;
-    RadioGroup group;
+    Switch switch1;                                             //2021041022  소프트웨어
+    RadioGroup group;                                           //박범준
     RadioButton radio1, radio2, radio3;
     Button button1, button2;
     ImageView img;

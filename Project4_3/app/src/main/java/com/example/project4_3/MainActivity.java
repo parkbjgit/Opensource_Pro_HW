@@ -12,8 +12,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     EditText edit1, edit2;
-    Button btnadd,btnsub,btnmul,btndiv,btnemp;
-    TextView textresult;
+    Button btnadd,btnsub,btnmul,btndiv,btnemp;                      //2021041022  소프트웨어
+    TextView textresult;                                            //박범준
     String num1,num2;
     Double result;
 
