@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.widget.TabHost;
 @SuppressWarnings("deprecation")
 public class MainActivity extends TabActivity {
-
+                                                            //2021041022 소프트웨어 박범준
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

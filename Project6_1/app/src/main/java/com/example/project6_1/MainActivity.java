@@ -17,7 +17,7 @@ import android.widget.TimePicker;
 public class MainActivity extends AppCompatActivity {
 
     Chronometer chrono;
-    Button btnStart,btnEnd;
+    Button btnStart,btnEnd;             //2021041022 소프트웨어 박범준
     RadioButton rdoCal,rdoTime;
     CalendarView calView;
     TimePicker tPicker;

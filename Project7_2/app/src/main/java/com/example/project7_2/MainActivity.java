@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 
 public class MainActivity extends AppCompatActivity {
     Button button1,button2;
-    LinearLayout baseLayout;
+    LinearLayout baseLayout;                         //2021041022 소프트웨어 박범준
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

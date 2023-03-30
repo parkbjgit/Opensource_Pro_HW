@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     EditText edtUrl;
-    Button btnGo, btnBack;
+    Button btnGo, btnBack;                         //2021041022 소프트웨어 박범준
     WebView web;
 
     @Override

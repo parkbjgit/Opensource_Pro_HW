@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     EditText tvName,tvEmail;
     EditText dlgEdtName,dlgEdtEmail;
     TextView toastText;
-    View dialogView, toastView;
+    View dialogView, toastView;                      //2021041022 소프트웨어 박범준
     Button btn1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
